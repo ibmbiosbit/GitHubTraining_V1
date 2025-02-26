@@ -1,2 +1,3 @@
 TEST 1 FILE
 GIT REVERT CHG 1
+Comparison lecture

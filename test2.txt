@@ -1,2 +1,3 @@
 TEST FILE 2
 GIT REVERT CHG 2
+Comparison lecture in file 2
