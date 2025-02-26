@@ -1,3 +1,5 @@
 TEST 1 FILE
 NEW TEXT
 
+GIT REVERT CHG 1
+Comparison lecture
