@@ -3,3 +3,4 @@ NEW TEXT
 
 GIT REVERT CHG 1
 Comparison lecture
+to check the stashes lecture in file 2
