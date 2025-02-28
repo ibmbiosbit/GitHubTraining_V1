@@ -1,1 +1,7 @@
 TEST 1 FILE
+NEW TEXT
+
+GIT REVERT CHG 1
+Comparison lecture
+to check the stashes lecture in file 2
+to check the stashes lecture for untracked file
